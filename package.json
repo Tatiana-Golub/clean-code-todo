@@ -10,8 +10,8 @@
   },
   "lint-staged": {
     "*.{js,html,css,json}": [
-      "prettier --write",
-      "eslint --fix"
+      "prettier --check",
+      "eslint"
     ]
   },
   "repository": {
