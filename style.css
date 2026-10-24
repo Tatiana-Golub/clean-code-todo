@@ -7,7 +7,6 @@ body {
 .header__content {
   width: 500px;
   margin: 0 auto;
-  display: block;
   text-align: right;
 }
 
@@ -26,7 +25,6 @@ body {
 }
 
 .main-page {
-  display: block;
   width: 500px;
   margin: 0 auto;
 }
@@ -115,7 +113,7 @@ body {
 
 .task-list {
   margin: 0;
-  padding: 0px;
+  padding: 0;
 }
 
 .task-list__item {
